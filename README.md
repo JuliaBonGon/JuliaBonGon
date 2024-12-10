@@ -1,11 +1,11 @@
-# About Me 👋
+### **About Me**  
 
-Hi there! I'm Julia, a proactive and communicative professional with over 10 years of experience in customer experience, onboarding, and support across various industries and countries. 
-My passion for continuous growth has led me to transition into web development, where I’m currently honing my skills in frontend and backend technologies during my training at Becode in Ghent.  
+Hi there 👋!  
+I'm **Julia**, a proactive and communicative professional with over **10 years of experience in customer care**, including onboarding and support. I’ve worked across **various industries, markets, and sectors**, bringing adaptability and expertise wherever I go.  
 
-🌱 I believe in lifelong learning, personal growth, and embracing new challenges.  
-💻 I’m excited to combine my customer-centric background with my evolving technical expertise to contribute to impactful projects.  
-📫 Feel free to connect with me: [LinkedIn](https://www.linkedin.com/in/julia-bonilla-gonzalez/)  
+🌱 **Lifelong learner:** I’m passionate about personal growth and embracing new challenges.  
+💻 **Transitioning into tech:** Currently pursuing a **Web Development training** program to enhance my skills in frontend and backend technologies, including **databases** and **API concepts**.  
+🔭 **Goal:** To blend my **customer-centric experience** with my growing technical knowledge to contribute to impactful projects.  
+📫 **Let’s connect:** [LinkedIn](https://www.linkedin.com/in/julia-bonilla-gonzalez/)  
 
-😄 Pronouns: she/her  
-
+😄 **Pronouns:** she/her  
