@@ -9,4 +9,9 @@ I'm **Julia**, a proactive and communicative professional with over **10 years o
 🔭 **Goal:** To blend my **customer-centric experience** with my growing technical knowledge to contribute to impactful projects.  
 📫 **Let’s connect:** [LinkedIn](https://www.linkedin.com/in/julia-bonilla-gonzalez/)  
 
+Here are some of my very first projects. These were made just after 1-2 months learning to code:  
+- [Weather App](https://weather-app-juliabg.netlify.app)  
+- [Zoom Memory Game](https://zoomemorygamejulia.netlify.app)  
+- [Happy Shopping](https://julias-happy-shopping.netlify.app)  
+
 😄 **Pronouns:** she/her  
